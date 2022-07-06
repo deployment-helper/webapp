@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mcrcwebapp-dev-00716-authRole",
+      "UnauthRoleArn": "arn:aws:iam::168490963129:role/amplify-mcrcwebapp-dev-00716-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::168490963129:role/amplify-mcrcwebapp-dev-00716-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mcrcwebapp-dev-00716-deployment",
+      "UnauthRoleName": "amplify-mcrcwebapp-dev-00716-unauthRole",
+      "StackName": "amplify-mcrcwebapp-dev-00716",
+      "StackId": "arn:aws:cloudformation:us-east-1:168490963129:stack/amplify-mcrcwebapp-dev-00716/ab1ab160-fd5a-11ec-aad5-0a6cbe9bd2bf",
+      "AmplifyAppId": "d25e8tdr7fmyqj"
+    },
+    "categories": {
+      "auth": {
+        "mcrcwebappa4f7503f": {}
+      }
+    }
+  }
+}
