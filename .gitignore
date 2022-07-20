@@ -145,3 +145,6 @@ amplifytools.xcconfig
 .secret-*
 **.sample
 #amplify-do-not-edit-end
+
+#Jet brains editors
+.idea
