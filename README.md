@@ -1,5 +1,7 @@
 # Deployment Helper Web App
 
+# NO more in use.
+
 This repository is web interface of deployment helper application. 
 
 ## Local development 
